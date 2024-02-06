@@ -15,7 +15,7 @@ This simulation aids in understanding traffic dynamics and can be useful for roa
 ### **Program features:**
 
 **Programming language:** C++  
-**Concurrencia:** Threads de C++, Semáforos (semaphore.h)
+**Concurrency:** Threads de C++, Semáforos (semaphore.h)
 
 ### **Compilation:**
 
@@ -35,5 +35,5 @@ Example:
 
 ---
 
-Other paths: 
+Other paths:
 [Solution Design](./design/readme.md)
