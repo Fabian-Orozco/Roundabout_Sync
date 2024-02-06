@@ -1,3 +1,16 @@
+build/
+bin/
+doc/
+.DS_Store
+thumbs.db
+*.o
+.vscode
+html/
+latex/
+notas.txt
+tests/
+
+
 # Prerequisites
 *.d
 
